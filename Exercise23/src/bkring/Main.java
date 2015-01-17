@@ -1,4 +1,4 @@
-package bkring;
+package BKring.Exercise23;
 
 /*
     Brian Kring
